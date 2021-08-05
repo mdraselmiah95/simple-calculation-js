@@ -18,5 +18,9 @@ console.log(myMonthlyInterest);
 
 
 
-
+// SI= P x R x T ÷ 100,
+// where P = Principal,
+// R = Rate of Interest,
+// T = Time Period of the Loan/deposit in years,
+// SI= Simple Interest
 
